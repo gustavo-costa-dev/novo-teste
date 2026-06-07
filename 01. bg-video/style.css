@@ -68,28 +68,4 @@
         height: 100%;
     }
 }
-body{
-    back
 
-}
-
-
-.card {
-    width: 700px;
-    background: #ccc;
-    padding: 20px;
-    margin: 20px;
-    font-family: sans-serif;
-    line-height: 28px;
-}
-
-::-webkit-scrollbar {
-    background-color: transparent;
-    width: 10px;
-}
-
-::-webkit-scrollbar-thumb {
-    background: linear-gradient(#21d4fd , #b72aff) ;
-    border-radius: 100px;
-
-}
