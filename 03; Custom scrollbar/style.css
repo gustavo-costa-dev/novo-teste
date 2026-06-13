@@ -7,6 +7,8 @@
 
 body{
     background: crimson;
+    display: flex;
+    justify-content: center;
 }
 
 .card {
@@ -16,11 +18,13 @@ body{
     margin: 20px;
     font-family: sans-serif;
     line-height: 28px;
+  
 }
 
 ::-webkit-scrollbar {
     background-color: transparent;
     width: 10px;
+    
 }
 
 ::-webkit-scrollbar-thumb {
